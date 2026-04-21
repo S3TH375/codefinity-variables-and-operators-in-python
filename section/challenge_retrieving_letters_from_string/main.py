@@ -2,13 +2,13 @@
 sample_text = "This is a string for learning"
 
 # Extracting the first character from the string
-___ = ___
+first_char =(sample_text[0])
 
 # Extracting the last character from the string
-___ = ___
+last_char = (sample_text[-1])
 
 # Extracting a highlighted word from the string
-___ = ___
+highlighted_word = (sample_text[-12:-9])
 
 # Testing
 print("The first char of the string: ", first_char)
